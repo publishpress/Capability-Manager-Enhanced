@@ -145,6 +145,7 @@ Fixed : Non-administrators with user editing capabilities could add new Administ
   * Feature : Retain last role selection for Capabilities, Editor Features screens
   * Perf : Sync role to all sites - Operation timed out on networks with ~100 sites 
   * Fixed : Some security scans flagged an unused file in external library "chosen". That file (and other developer documentation files) has been removed
+  * Feature : New "Admin Features" screen #200
 
 = 2.1 - 24 Jun 2021 =
   * Feature : Editor Features restriction (new screen to block editor elements per-role)
